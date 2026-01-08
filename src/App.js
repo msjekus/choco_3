@@ -96,10 +96,10 @@ const App = () => {
           <h2 className="mb-4">Зробіть свій день солодшим</h2>
           <p className="mb-4">Для замовлення пишіть нам в Instagram або телефонуйте</p>
           <div className="d-flex justify-content-center gap-3 mb-4">
-            <Button variant="danger" className="rounded-pill px-4" href="https://www.instagram.com/yulichka_choco_desserts/">
+            <Button variant="danger" className="rounded-pill px-4" href="https://www.instagram.com/yulichka_choco_desserts/" target="_blank" rel="noopener noreferrer">
               Instagram
             </Button>
-            <Button variant="light" className="rounded-pill px-4">
+            <Button variant="light" className="rounded-pill px-4" href="https://t.me/Yulik_06" target="_blank" rel="noopener noreferrer">
               Telegram
             </Button>
           </div>
